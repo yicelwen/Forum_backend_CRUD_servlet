@@ -1,0 +1,6 @@
+<Resource
+name="JDBC/EEIT43DB" type="javax.sql.DataSource"
+auth="Container" username="(MS SQL帳號)" 
+password="(MS SQL密碼)" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+url="jdbc:sqlserver://localhost:1433;databaseName=IceAndFireDB" />
+</Context>
